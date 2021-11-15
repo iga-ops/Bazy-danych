@@ -1,4 +1,5 @@
 Section 1: The contents of the replication documentation
+
 Folder Analysis_Data:
 original file with file name changed 0_DOLNOSlĄSKIE.csv.
 extracted parts of the data from the original file used for the further analysis saved into .csv files
@@ -13,6 +14,7 @@ original file 0_DOLNOS╠üLA╠ĘSKIE.csv;
 original file with file name changed 0_DOLNOSlĄSKIE.csv.
 Metadata folder:
 The_Metadata_Guide.md
+
 Section 2: Modifications made to importable data files
 Copy of the original file 0_DOLNOS╠üLA╠ĘSKIE.csv has been saved as 13_WARMIŃSKO-MAZURSKIE.csv because of the special characters hindering the comprehensive meaning of the file origin and contents.
 
